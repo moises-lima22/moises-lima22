@@ -1,6 +1,6 @@
 Front End - ✨🚀🚀
 
-<div align="center" style="display: flex; flex-flow: column;">
+<div align="center" style="display: flex; flex-flow: wrap;">
     <a href="https://github.com/moises-lima22">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises-lima22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-lima22&layout=compact&langs_count=7&theme=dracula"/>
